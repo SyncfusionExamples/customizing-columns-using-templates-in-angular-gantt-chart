@@ -1,6 +1,6 @@
 # Customizing Columns Using Templates and Adding a Custom Toolbar Item in Angular Gantt Chart 
 
-A quick-start project that helps you to customize the column headers and data in the Gantt Chart component using templates. This project contains code snippets to add the custom toolbar buttons Quick Filter and Clear Filter.
+A quick-start Angular project that helps you to customize the column headers and data in the Angular Gantt Chart component of Syncfusion using templates. This project also contains code snippets to add the custom toolbar buttons Quick Filter and Clear Filter.
 
 Documentation: 
 
